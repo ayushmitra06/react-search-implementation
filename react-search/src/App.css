@@ -17,8 +17,9 @@
   font-size: 20px;
   width: 500px;
   border: 2px solid #ddd; /* Light gray border */
-  border-radius: 5px;
+  border-radius: 9px;
   margin-bottom: 20px;
+  margin-right: 180px;
   transition: border-color 0.3s ease; /* Smooth border color transition */
 }
 
